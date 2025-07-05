@@ -9,7 +9,7 @@ LPA revealed three latent profiles:<br>
 2. High Grit Type (29.57%), and <br>
 
 3. High Helplessness Type (8.31%). <br>
-
+<img width="840" height="840" alt="Image" src="https://github.com/user-attachments/assets/7263c71c-36e2-4ecc-8dd6-277c687c957e" />
 
 Subsequently, various machine learning models—including decision trees, ensemble methods (bagging, boosting), random forests, and support vector machines (SVM)—were applied to predict these motivational profiles. Among all predictors, attention span and self-esteem emerged as the most significant variables. Relationships with teachers, parenting attitudes, and peer relationships also contributed to model performance, whereas gender, private tutoring, and poverty status had relatively low predictive importance.
 
