@@ -1,5 +1,6 @@
 # lethargy_grit_classification
 Identifying Latent Profiles of Academic Motivation Among Adolescents and Predicting Motivational Types Using Machine Learning
+Formal description available <a href = "https://drive.google.com/file/d/1fTLxuCaO8gHtzxdYZld_08XUW91aZvB6/view?usp=sharing">here</a>
 ## Overview
 This study aimed to identify distinct profiles of academic motivation among adolescents and explore key predictive factors using Latent Profile Analysis (LPA) and machine learning techniques. Data were drawn from the Korean Children and Youth Panel Survey (KCYPS 2018), including a sample of 2,468 first-year middle school students. Grit and academic helplessness were used as core variables to classify motivational types. <br>
 LPA revealed three latent profiles:<br>
